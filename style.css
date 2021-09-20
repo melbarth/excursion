@@ -1,17 +1,37 @@
 body {
     background-color: black;
+    text-align: center;
 }
 
-.page-header {
+h1 {
     font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 
 .excursion-link {
     color: aquamarine;
     font-size: 16px;
-    text-align: center;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+h3 {
+    color: gray;
+    font-family: verdana;
+    font-size: 21px;
+    
+}
+
+.copyright {
+    color: gray;
+    font-family: verdana;
+    font-size: 21px;
+    text-align: right;
 }
